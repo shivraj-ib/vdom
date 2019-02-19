@@ -1,0 +1,9 @@
+{
+  "name": "myVdom",
+  "version": "1.0.0",
+  "description": "my first virtual dom",
+  "main": "index.html",
+  "repository": "https://github.com/shivraj-ib/vdom",
+  "author": "shivraj-ib <shivraj.singh@infobeans.com>",
+  "license": "MIT"
+}
